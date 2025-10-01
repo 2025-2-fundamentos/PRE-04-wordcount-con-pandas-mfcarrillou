@@ -5,7 +5,7 @@
 # Escriba la función job, la cual orquesta las funciones anteriores.
 #
 def run_job(input_directory, output_directory):
-    """Job"""
+    """Job."""
 
 
 if __name__ == "__main__":
